@@ -39,6 +39,22 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Meat Stew",
+      "restaurant": "Serena Hotel",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspJMklMmja_GjDDrSOD7LIWu5TMP_C4Rs8w&usqp=CAU",
+      "rating": "10",
+      "comment": "U deserve this follow this :\nIngredients\n1.2 kg / 2.4lb chuck beef (, cut into 3.5 cm / 1.5\" cubes (Note 1))\n1 tsp each salt and pepper\n3 tbsp olive oil (, divided)\n1 large onion (, halved then cut into 1 cm / 2/5\" slices)\n4 garlic cloves (, minced)",
+      "id": 6
+    },
+    {
+      "name": "Rice Stew",
+      "restaurant": "Sarova Stanley",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmKgCyPHPheL1hjYaMb6jmJ8taki35CZ-1g&usqp=CAU",
+      "rating": "8",
+      "comment": "Jamaican Beef Stew With Rice",
+      "id": 7
     }
   ]
 }
